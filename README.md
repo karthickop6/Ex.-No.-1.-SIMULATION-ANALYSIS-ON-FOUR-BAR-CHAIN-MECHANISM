@@ -53,7 +53,7 @@
 
 
 ## Output:
-https://user-images.githubusercontent.com/118423842/272183499-6f200277-c5c6-4e30-8c16-7d9aa611804d.png
+![image](https://github.com/karthickop6/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/72570119/feba64ac-41bf-492c-a640-326a4f1ffa62)
 
 ### Name: Karthick P
 ### Register Number: 212222100021
